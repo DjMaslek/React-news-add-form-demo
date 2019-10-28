@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-news-add-form-demo/static/css/main.c7b9f6cb.chunk.css",
+    "main.js": "/React-news-add-form-demo/static/js/main.da9532e4.chunk.js",
+    "main.js.map": "/React-news-add-form-demo/static/js/main.da9532e4.chunk.js.map",
+    "runtime-main.js": "/React-news-add-form-demo/static/js/runtime-main.f9505bc2.js",
+    "runtime-main.js.map": "/React-news-add-form-demo/static/js/runtime-main.f9505bc2.js.map",
+    "static/js/2.bc9e1127.chunk.js": "/React-news-add-form-demo/static/js/2.bc9e1127.chunk.js",
+    "static/js/2.bc9e1127.chunk.js.map": "/React-news-add-form-demo/static/js/2.bc9e1127.chunk.js.map",
+    "index.html": "/React-news-add-form-demo/index.html",
+    "precache-manifest.8961a01df40cc0d9303669c65fb2f137.js": "/React-news-add-form-demo/precache-manifest.8961a01df40cc0d9303669c65fb2f137.js",
+    "service-worker.js": "/React-news-add-form-demo/service-worker.js",
+    "static/css/main.c7b9f6cb.chunk.css.map": "/React-news-add-form-demo/static/css/main.c7b9f6cb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9505bc2.js",
+    "static/js/2.bc9e1127.chunk.js",
+    "static/css/main.c7b9f6cb.chunk.css",
+    "static/js/main.da9532e4.chunk.js"
+  ]
+}
